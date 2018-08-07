@@ -47,8 +47,7 @@ public function UniID(){
         }else{
            $cadena.=$uidv2[$index];
       }
-    }  
-
+    }
 
     $arreglo[1] = $cadena; //letras
     $arreglo[2] = $numero; //numeros
